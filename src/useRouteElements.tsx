@@ -78,7 +78,7 @@ export default function useRouteElements() {
       )
     },
     {
-      path: '',
+      path: '/CloneShoppe',
       index: true,
       element: (
         <MainLayout>
